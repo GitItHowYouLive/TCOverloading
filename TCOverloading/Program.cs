@@ -17,13 +17,13 @@ namespace TCOverloading
 
         public static string Add(int a, int b, bool doll)
         {
-            return $"{a + b}" + (doll ? " dollar" + (a + b > 1 ? "s" : ""): "");
+            return $"{a + b}" + (doll ? " dollar" + (a + b == 1 ? "" : "s"): "");
         }
 
         static void Main(string[] args)
         {
             Console.WriteLine(Add(11,1));
-            Console.WriteLine(Add(2,0));
+            Console.WriteLine(Add(1,0, true));
             Console.WriteLine(Add(3,3, false));
             Console.WriteLine(Add(94,4));
             Console.WriteLine(Add(5,5, true));
