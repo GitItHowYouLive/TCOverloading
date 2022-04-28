@@ -1,0 +1,16 @@
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\bin\Debug\net5.0\TCOverloading.exe
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\bin\Debug\net5.0\TCOverloading.deps.json
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\bin\Debug\net5.0\TCOverloading.runtimeconfig.json
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\bin\Debug\net5.0\TCOverloading.runtimeconfig.dev.json
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\bin\Debug\net5.0\TCOverloading.dll
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\bin\Debug\net5.0\TCOverloading.pdb
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\obj\Debug\net5.0\TCOverloading.csproj.AssemblyReference.cache
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\obj\Debug\net5.0\TCOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\obj\Debug\net5.0\TCOverloading.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\obj\Debug\net5.0\TCOverloading.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\obj\Debug\net5.0\TCOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\obj\Debug\net5.0\TCOverloading.dll
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\obj\Debug\net5.0\refint\TCOverloading.dll
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\obj\Debug\net5.0\TCOverloading.pdb
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\obj\Debug\net5.0\TCOverloading.genruntimeconfig.cache
+C:\Users\Terrence\Desktop\Repos\TCOverloading\TCOverloading\obj\Debug\net5.0\ref\TCOverloading.dll
